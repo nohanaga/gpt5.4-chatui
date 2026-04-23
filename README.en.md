@@ -4,7 +4,7 @@
 
 A GitHub Copilot-style rich chat UI Flask app that streams the Azure OpenAI / OpenAI **Responses API** `gpt-5.4` family models. Supports Reasoning Summary, Tool Search, MCP, Mermaid, syntax highlighting, theme / language switching, and more.
 
-> ⚠️ Note: `gpt-5.4` is a placeholder model name used in this sample repository. Specify the actual deployed model name (e.g. `gpt-5`, `gpt-5-mini`) via `AZURE_OPENAI_DEPLOYMENT`.
+> ⚠️ Note: `gpt-5.4` is a placeholder model name used in this sample repository. Specify the actual deployed model name via `AZURE_OPENAI_DEPLOYMENT`.
 
 ---
 
